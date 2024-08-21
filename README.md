@@ -24,6 +24,6 @@ This project implements a simple calculator using FPGA (Field-Programmable Gate 
    ```
 2. Open the project in your preferred FPGA development environment.
 3. Synthesize the design and program it to your FPGA board.
-4.Test the calculator functionality on the FPGA board.
+4. Test the calculator functionality on the FPGA board.
 
 
